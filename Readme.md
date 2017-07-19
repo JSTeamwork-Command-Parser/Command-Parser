@@ -1,7 +1,7 @@
 [a link] (https://trello.com/b/MGfyXdm8/issues)
 
 
-Profil in SoftUni NaskoGalchev: Implement the “reverse” command.
+NaskoGalchev(SoftUni profile): Implement the “reverse” command.
 Implement the “insert” command.
 Implement the “delete” command.
 Implement the “roll left” command.
