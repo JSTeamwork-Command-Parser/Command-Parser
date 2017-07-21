@@ -5,4 +5,4 @@ function  append(initialText,tokens) {
         return  text ;
 
 }
-module.exports = {append}
+module.exports = {append};

@@ -11,4 +11,4 @@ function reverse(initialText,tokens) {
 
 
 }
-module.exports = {reverse}
+module.exports = {reverse};

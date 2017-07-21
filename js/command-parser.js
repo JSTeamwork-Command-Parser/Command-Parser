@@ -28,6 +28,6 @@ function print(message) {
 }
 }
 
-    processCommands(['aaaa', 'append aabb', 'prepend iiiiii' ,'reverse','insert 2 ss','delete 2','roll right'])
+    processCommands(['aaaa', 'append aabb', 'prepend iiiiii' ,'reverse','insert 2 ss','delete 2','roll right', 'count aabb'])
 
 
